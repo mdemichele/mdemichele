@@ -7,7 +7,7 @@ React SPA's. I'm currently knee-deep in React and would love to have an interest
 
 📫 How to reach me:
 - Shoot me an email at m.d.demichele@gmail.com
-- Connect with me on [https://www.linkedin.com/in/matthew-demichele-3a51a9139/](LinkedIn)
+- Connect with me on [LinkedIn](https://www.linkedin.com/in/matthew-demichele-3a51a9139/)
 
 ⚡ Fun fact: 
 In my spare time, I'm an avid freediver, scuba diver, and all-around ocean lover.
