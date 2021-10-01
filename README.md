@@ -1,9 +1,8 @@
 ### Hey, I'm Matt 👋
 
-I'm a software engineer from Maui, Hawaii. I build applications for the web. I'm particularly interested in all things JavaScript and Python. 
+I'm a software engineer working primarily with JavaScript and Python. I'm passionate about building secure, scalable, and efficient applications for the web. I'm constantly growing in my abilities as a programmer. While working full-time, I'm completing a computer science degree through Oregon State University and finishing a coding bootcamp through the Springboard Software Engineering Career Track.
 
-💬 Ask me about:
-React SPA's. I'm currently knee-deep in React and would love to have an interesting conversation about its ins and outs. 
+My current side projects involve building scalable web applications using Node.js and React. I'm also building things with Flask, as well as experimenting with C.
 
 📫 How to reach me:
 - Shoot me an email at m.d.demichele@gmail.com
