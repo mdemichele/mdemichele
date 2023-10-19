@@ -1,6 +1,6 @@
 ### Hey, I'm Matt 👋
 
-I'm a Software Engineer at Starbucks working primarily with JavaScript and Python. I'm interested in building secure, scalable, and efficient applications for the web. I'm constantly growing in my abilities as a programmer. 
+I'm a Software Engineer at OpenTech Alliance working primarily with JavaScript and Python. I'm interested in building secure, scalable, and efficient applications for the web. I'm constantly growing in my abilities as a programmer. 
 
 My current side projects involve building web applications using Node.js and React. I'm also building things with Flask, as well as experimenting with C.
 
