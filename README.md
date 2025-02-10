@@ -9,4 +9,4 @@ My current side projects involve building web applications using Node.js and Rea
 - Connect with me on [LinkedIn](https://www.linkedin.com/in/matthew-demichele-3a51a9139/)
 
 ⚡ Fun fact: 
-In my spare time, I'm an avid freediver, scuba diver, and all-around ocean lover.
+In my spare time, I'm an avid freediver, scuba diver, and all-around ocean lover. :ocean:
